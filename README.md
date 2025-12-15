@@ -1,0 +1,70 @@
+# TENSION – EVERYBODY'S WARMING
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:40.80] Going to disco party
+[00:44.39] Don't believe runaway
+[00:47.36] Looking for you my baby night and day
+[01:05.86] 
+[00:51.54] For me and you
+[00:53.49] I'll be forever crazy
+[00:55.89] You gonna get always ready
+[00:58.63] We over the world to together on 'n on again
+[01:20.63] 
+[01:04.01] Everybody's warming
+[01:07.86] All around feel the sound
+[01:11.19] Get your body and move ya
+[01:14.08] Me and you love you too
+[01:25.58] 
+[01:17.29] Everybody's warming
+[01:19.84] All around feel the sound
+[01:23.30] Get your body and move ya
+[01:26.31] Me and you love you too
+[01:37.81] 
+[01:42.09] Gonna get out your feeling
+[01:45.11] Now it is movin' on
+[01:47.82] I will be happy to turn it on
+[02:02.32] 
+[01:52.10] For me and you
+[01:54.23] I'll be forever crazy
+[01:56.55] You gonna get always ready
+[01:59.40] We over the world to together on 'n on again
+[02:21.40] 
+[02:05.52] Everybody's warming
+[02:08.42] All around feel the sound
+[02:11.65] Get your body and move ya
+[02:14.52] Me and you love you too
+[02:26.02] 
+[02:17.76] Everybody's warming
+[02:20.20] All around feel the sound
+[02:23.89] Get your body and move ya
+[02:26.85] Me and you love you too
+[02:38.35] 
+[02:42.78] Going to disco party
+[02:48.39] Looking for you my baby night and day
+[03:06.89] 
+[02:53.25] For me and you
+[02:54.94] I'll be forever crazy
+[02:57.24] You gonna get always ready
+[03:00.24] We over the world to together on 'n on again
+[03:22.24] 
+[03:06.34] Everybody's warming
+[03:09.18] All around feel the sound
+[03:12.14] Get your body and move ya
+[03:15.21] Me and you love you too
+[03:26.71] 
+[03:18.67] Everybody's warming
+[03:21.32] All around feel the sound
+[03:24.32] Get your body and move ya
+[03:27.64] Me and you love you too
+[03:39.14] 
+[03:53.66] For me and you
+[03:55.57] 'I'll be forever crazy]
+[03:57.79] You We Everybody's warming
+[04:09.08] All around feel the sound
+[04:12.82] Get your body and move ya
+[04:15.52] Me and you love you too
+[04:27.02] 
+[04:18.98] Everybody's warming Get your body and move ya
+```
