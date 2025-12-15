@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "EVERYBODY'S WARMING",
+  "base_artist": "TENSION",
+  "createdAt": "2025-12-15T14:58:49.041900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EVERYBODY'S WARMING",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/01_EVERYBODY'S_WARMING_Tension.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everybody's Warming (Extended Mix)",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/02_Everybody's_Warming_(Extended_Mix)_Tension.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody’s Warming",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/03_Everybody’s_Warming_Tension.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody's Warming",
+      "artist": "Tension",
+      "has_synced": false,
+      "path": "select/04_Everybody's_Warming_Tension.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tension / Everybody's Warming",
+      "artist": "Initial D",
+      "has_synced": true,
+      "path": "select/05_Tension___Everybody's_Warming_Initial_D.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody's Warming",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/06_Everybody's_Warming_Tension.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "EVERYBODY'S WARMING - EXTENDED MIX",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/07_EVERYBODY'S_WARMING_-_EXTENDED_MIX_Tension.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EVERYBODY'S WARMING",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/08_EVERYBODY'S_WARMING_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody's Warming (HD)",
+      "artist": "Tension",
+      "has_synced": true,
+      "path": "select/09_Everybody's_Warming_(HD)_Tension.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EVERYBODY'S WARMING",
+      "artist": "TENSION",
+      "has_synced": false,
+      "path": "select/pl_01_EVERYBODY'S_WARMING_TENSION.txt"
+    }
+  ]
+}
